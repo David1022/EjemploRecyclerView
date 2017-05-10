@@ -21,6 +21,7 @@ import java.util.ArrayList;
  * ------ compile 'com.android.support:recyclerview-v7:25.3.1' (para el Recycler View) ----------
  * ------ compile 'com.android.support:design:25.3.1' (para el TabLayout) -----------------------
  * en el build.gradle (Module:app)
+ * En Android Manifest se ha cambiado el tema por un NoTitleBar. Se han incluido nuevos temas en @styles
  */
 public class MainActivity extends AppCompatActivity {
 
